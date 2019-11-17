@@ -2,20 +2,25 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+*I am greatfull* :tree:
+_I am also greatfull_ ::):
 
 <br>
 
-{% include 02-image.md %}
+**I am the best developer at ETM**
+__I am a very good developer__ :heart:
+
 
 <br>
 
-{% include 03-links.md %}
+:+1: :+1: :+1: :+1: :+1:
 
 <br>
 
-{% include 04-lists.md %}
+**I am the best developer at ETM**
+__I am a very good developer__ :heart:
 
 <br>
 
-{% include 05-emphasis.md %}
+**I am the best developer at ETM**
+__I am a very good developer__ :heart:
