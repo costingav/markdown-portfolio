@@ -1,0 +1,3 @@
+* Reading
+* Jogging
+* Helping others
